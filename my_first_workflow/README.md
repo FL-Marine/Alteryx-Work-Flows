@@ -7,3 +7,4 @@ I learned how to:
 5. Filter
 6. Join
 7. Sort
+8. Output data into CSV, Excel, and Alteryx DB
