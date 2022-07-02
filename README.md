@@ -1,2 +1,2 @@
 # Alteryx-Work-Flows
-Workflows I created in Alteryx while I had free trial
+Workflows I created in Alteryx while I had free trial.
