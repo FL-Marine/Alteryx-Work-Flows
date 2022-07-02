@@ -8,3 +8,4 @@ I learned how to:
 6. Join
 7. Sort
 8. Output data into CSV, Excel, and Alteryx DB
+  (Can output data into multiple files as well based on specific column)
