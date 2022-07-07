@@ -36,6 +36,7 @@ And asked you for the following:
 ![image](https://user-images.githubusercontent.com/74512335/177807292-24b8795c-4a19-4261-ae89-356080c19543.png)
 
 4. Create a "pivot table" like structure with:
-Port Name on Rows
-Vehicle Type on Columns
-Passengers as the values
+
+- Port Name on Rows
+- Vehicle Type on Columns
+- Passengers as the values
