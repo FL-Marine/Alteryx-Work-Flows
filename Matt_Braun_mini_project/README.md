@@ -5,9 +5,13 @@ Pretend your boss gave this dataset.
 If you open the file called Question 72. There are 5 columns of data:
 
 Port Name
+
 Date
+
 Month
+
 Vehicle Type
+
 Number of People
 
 And asked you for the following:
