@@ -41,3 +41,10 @@ And asked you for the following:
 - Port Name on Rows
 - Vehicle Type on Columns
 - Passengers as the values
+
+  a. transpose tool grouping data by Port Name, changing column headers to vehicle type and values for new columns is number of people ➡️ summing values
+  b. data cleansing tool replacing nulls with 0 (numeric fields) ➡️ ctrl, shift, b for browse tool
+
+## Final workflow
+
+![image](https://user-images.githubusercontent.com/74512335/178040210-986e5629-4734-4299-8930-e6d5e227208f.png)
