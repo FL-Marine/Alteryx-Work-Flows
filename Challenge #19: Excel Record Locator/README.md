@@ -1,6 +1,6 @@
 # Challenge #19: Excel Record Locator
 
-![image](https://user-images.githubusercontent.com/74512335/180218262-a7d14a63-b1ed-42c8-82d3-7995fc8eb22b.png)
+![image](https://user-images.githubusercontent.com/74512335/180218467-651ae9da-efb7-4d1b-9f52-54275c49543e.png)
 
 # Challenge Link - https://community.alteryx.com/t5/Weekly-Challenge/Challenge-19-Excel-Record-Locator/td-p/36748
 
