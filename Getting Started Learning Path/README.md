@@ -4,3 +4,4 @@
 # Practice Exercise 2
 ![image](https://user-images.githubusercontent.com/74512335/186515730-223da980-320f-4465-bb4f-e1aab2bc2305.png)
 
+# Practice Exercise 3
