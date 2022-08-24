@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="6" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>2022-counties.xlsx
+Query=`Sheet1$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Employee Name" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Job Title" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Base Pay" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Overtime Pay" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Other Pay" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Benefits" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Total Pay" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Total Pay &amp; Benefits" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Year" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Notes" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+            <Field name="Agency" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Alteryx for Excel Users\Section 1\2022-counties.xlsx|||`Sheet1$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="150" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Other Pay" selected="False" />
+            <SelectField field="Benefits" selected="False" />
+            <SelectField field="Total Pay" selected="True" type="Double" size="8" />
+            <SelectField field="Total Pay &amp; Benefits" selected="False" />
+            <SelectField field="Agency" selected="True" rename="County" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="294" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>&gt;</Operator>
+            <Field>Total Pay</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2022-08-24 16:39:55</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>250000</Operand>
+              <StartDate>2022-08-24 16:39:55</StartDate>
+              <EndDate>2022-08-24 16:39:55</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Total Pay] &gt; 250000</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Formula.Formula">
+        <Position x="402" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FormulaFields>
+            <FormulaField expression="[Total Pay]/12" field="Monthly Pay" size="8" type="Double" />
+          </FormulaFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText><![CDATA[Monthly Pay = [Total Pay]/12
+]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFormula" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="True" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="True" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Section WF</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="d3e9827e-5e55-4fea-837b-2a31cb954042" />
+      <Telemetry>
+        <PreviousWorkflowId value="551c7a58-d464-49e4-963e-951e771e9ea9" />
+        <OriginWorkflowId value="551c7a58-d464-49e4-963e-951e771e9ea9" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
