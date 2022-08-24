@@ -1,1 +1,1 @@
-This repo is about a core certification course on Udemy by datacurious.ai
+This repo is about a core certification course I took on Udemy by datacurious.ai
