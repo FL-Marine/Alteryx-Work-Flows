@@ -1,0 +1,10 @@
+league,team,season,Player_Name,Position,Age,Annual_Salary_GBP,Weekly_Salary_GBP
+epl,manchester-united-fc,2019,David De Gea,GK,29,19500000,375000
+epl,manchester-united-fc,2019,Paul Pogba,M,26,15080000,290000
+epl,manchester-united-fc,2019,Anthony Martial,F,24,13000000,250000
+epl,chelsea-fc,2019,Christian Pulisic,F,21,8250000,158654
+epl,chelsea-fc,2019,Kepa Arrizabalaga,GK,25,7800000,150000
+epl,chelsea-fc,2019,Cesar Azpilicueta,D,30,7540000,145000
+epl,liverpool-fc,2019,Mohamed Salah,F,27,10400000,200000
+epl,liverpool-fc,2019,Roberto Firmino,F,28,9360000,180000
+epl,liverpool-fc,2019,Virgil van Dijk,D,28,9360000,180000
