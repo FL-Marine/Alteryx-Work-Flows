@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="6" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File RecordLimit="" SearchSubDirs="False" FileFormat="0" OutputFileName="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\*_2019.csv</File>
+          <FormatSpecificOptions>
+            <HeaderRow>True</HeaderRow>
+            <IgnoreErrors>False</IgnoreErrors>
+            <AllowShareWrite>False</AllowShareWrite>
+            <ImportLine>1</ImportLine>
+            <FieldLen>254</FieldLen>
+            <SingleThreadRead>False</SingleThreadRead>
+            <IgnoreQuotes>DoubleQuotes</IgnoreQuotes>
+            <Delimeter>,</Delimeter>
+            <QuoteRecordBreak>False</QuoteRecordBreak>
+            <CodePage>28591</CodePage>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Used*_2019.csv
+wild card to get all 3 csv's loaded</AnnotationText>
+          <DefaultAnnotationText>*_2019.csv</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="league" size="254" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="team" size="254" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="season" size="254" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="Player_Name" size="254" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="Position" size="254" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="Age" size="254" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="Annual_Salary_GBP" size="254" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="Weekly_Salary_GBP" size="254" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AutoField.AutoField">
+        <Position x="114" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Fields>
+            <Field field="league" selected="True" />
+            <Field field="team" selected="True" />
+            <Field field="season" selected="True" />
+            <Field field="Player_Name" selected="True" />
+            <Field field="Position" selected="True" />
+            <Field field="Age" selected="True" />
+            <Field field="Annual_Salary_GBP" selected="True" />
+            <Field field="Weekly_Salary_GBP" selected="True" />
+            <Field field="*Unknown" selected="True" />
+          </Fields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>This is used because CSV's data is imported as strings</AnnotationText>
+          <DefaultAnnotationText><![CDATA[Since CSV's ]]></DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="league" size="3" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="String" />
+            <Field name="team" size="20" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="season" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="Int16" />
+            <Field name="Player_Name" size="30" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="V_String" />
+            <Field name="Position" size="2" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="String" />
+            <Field name="Age" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="Byte" />
+            <Field name="Annual_Salary_GBP" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="Int32" />
+            <Field name="Weekly_Salary_GBP" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\chelsea-fc_2019.csv" type="Int32" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxAutoField" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sort.Sort">
+        <Position x="222" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SortInfo locale="1033">
+            <Field field="team" order="Ascending" />
+            <Field field="Annual_Salary_GBP" order="Descending" />
+          </SortInfo>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>team - Ascending
+Annual_Salary_GBP - Descending</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSort" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="342" y="162" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>First</Mode>
+          <N>3</N>
+          <GroupFields orderChanged="False">
+            <Field name="team" />
+          </GroupFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>First N rows = 3
+Grouping by team
+To get top 3 paid players by team</AnnotationText>
+          <DefaultAnnotationText>First 3</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="582" y="78" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="19" MaxRecords="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\Top 3 Players.yxdb</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+            <WriteCompatibleVersion>False</WriteCompatibleVersion>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Top 3 Players.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="594" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Intro to Alteryx Designer_Data Sources\Challenge\Top_3 Players.xlsx|||2019 Top 3 Players</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Top_3 Players.xlsx
+Query=2019 Top 3 Players</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="True" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Top_3_Players</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="80b848c6-e052-4b0f-8bed-1570fda1fcd4" />
+      <Telemetry>
+        <PreviousWorkflowId value="d2b56323-6462-414a-9e07-0eba5984f669" />
+        <OriginWorkflowId value="d2b56323-6462-414a-9e07-0eba5984f669" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
