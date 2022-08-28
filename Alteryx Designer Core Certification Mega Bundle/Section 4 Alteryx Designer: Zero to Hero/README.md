@@ -7,5 +7,8 @@
 # Introduction to Alteryx Designer & Data Sources
 ![image](https://user-images.githubusercontent.com/74512335/187048547-4c44be29-635d-4792-bb1f-c26e6fb238e9.png)
 
+# Data Blending 
+- Used manual configuration to blend all data sources together
+![image](https://user-images.githubusercontent.com/74512335/187093666-0759622a-ee62-45e7-929a-53c3c5cb4fd5.png)
 
 
