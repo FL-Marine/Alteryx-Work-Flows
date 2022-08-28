@@ -5,4 +5,4 @@
 ![image](https://user-images.githubusercontent.com/74512335/186515730-223da980-320f-4465-bb4f-e1aab2bc2305.png)
 
 # Practice Exercise 3
-![image](https://user-images.githubusercontent.com/74512335/187091092-9edfe7b5-ab4e-4d5d-8f88-846be7c7bf1d.png)
+![image](https://user-images.githubusercontent.com/74512335/187091178-a049f3ef-5751-4a65-bbae-83fded81ba67.png)
