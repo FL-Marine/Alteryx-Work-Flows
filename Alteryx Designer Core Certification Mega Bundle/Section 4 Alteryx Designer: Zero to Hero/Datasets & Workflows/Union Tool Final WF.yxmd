@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="6" y="18" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\File1.yxdb</File>
+          <FormatSpecificOptions />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>File1.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="league" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="Team Name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="season" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="Player" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" />
+            <Field name="Position" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="Age" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+            <Field name="Annual_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+            <Field name="Weekly_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="6" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\File2.yxdb</File>
+          <FormatSpecificOptions />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>File2.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="EPL" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="team" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="season" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="Player_Name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" />
+            <Field name="Position" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="Age" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+            <Field name="Annual_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+            <Field name="Weekly_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="6" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\File3.yxdb</File>
+          <FormatSpecificOptions />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>File3.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="league" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="team" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="season" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="Player_Name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" />
+            <Field name="Annual_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="6" y="330" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\QUIZ_1.yxdb</File>
+          <FormatSpecificOptions />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QUIZ_1.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="team" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="weekly wages" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+            <Field name="year" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="Player_Name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="6" y="426" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\QUIZ_2.yxdb</File>
+          <FormatSpecificOptions />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>QUIZ_2.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="team_name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="EPL Season" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+            <Field name="player" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" />
+            <Field name="total pay" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" />
+            <Field name="Position" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="318" y="234" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <AutoResetMode>Custom</AutoResetMode>
+          <MultiMetaInfo>
+            <MetaInfo name="#1">
+              <RecordInfo>
+                <Field name="league" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="1" />
+                <Field name="Team Name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="2" />
+                <Field name="season" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="3" />
+                <Field name="Player" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" column="4" />
+                <Field name="Position" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="5" />
+                <Field name="Age" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="6" />
+                <Field name="Annual_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="7" />
+                <Field name="Weekly_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="8" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#2">
+              <RecordInfo>
+                <Field name="EPL" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="1" />
+                <Field name="team" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="2" />
+                <Field name="season" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="3" />
+                <Field name="Player_Name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" column="4" />
+                <Field name="Position" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="5" />
+                <Field name="Age" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="6" />
+                <Field name="Annual_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="7" />
+                <Field name="Weekly_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="8" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#3">
+              <RecordInfo>
+                <Field name="league" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="1" />
+                <Field name="team" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="2" />
+                <Field name="season" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="3" />
+                <Field name="Player_Name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" column="4" />
+                <Field name="Annual_Salary_GBP" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="7" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#4">
+              <RecordInfo>
+                <Field name="team" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="2" />
+                <Field name="year" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="3" />
+                <Field name="Player_Name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" column="4" />
+                <Field name="weekly wages" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="8" />
+              </RecordInfo>
+            </MetaInfo>
+            <MetaInfo name="#5">
+              <RecordInfo>
+                <Field name="team_name" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="2" />
+                <Field name="EPL Season" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="3" />
+                <Field name="player" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_WString" column="4" />
+                <Field name="Position" size="255" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="V_String" column="5" />
+                <Field name="total pay" source="File: C:\Users\njewell\OneDrive - alteryx.com\Desktop\Dreidel3\Transfer\EPL_Player_Salaries.xlsx|||`2017$`" type="Double" column="7" />
+              </RecordInfo>
+            </MetaInfo>
+          </MultiMetaInfo>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ManualDelayed</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="438" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\Union Tool Final.xlsx|||Sheet1</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Union Tool Final.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="438" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="19" MaxRecords="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\Union_Tool_Output.yxdb</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+            <WriteCompatibleVersion>False</WriteCompatibleVersion>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Union_Tool_Output.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection name="#1">
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection name="#3">
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection name="#4">
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection name="#5">
+      <Origin ToolID="6" Connection="Output" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Union Tool Final WF</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="155dc506-9b3f-4070-83d0-8f7cf303c88e" />
+      <Telemetry>
+        <PreviousWorkflowId value="053d76c2-c582-40c8-96dd-9b8f541cda68" />
+        <OriginWorkflowId value="053d76c2-c582-40c8-96dd-9b8f541cda68" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
