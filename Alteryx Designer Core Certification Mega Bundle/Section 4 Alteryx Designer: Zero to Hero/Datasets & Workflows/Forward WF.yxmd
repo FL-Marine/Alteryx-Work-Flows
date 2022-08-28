@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2022.1">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="18" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Quiz_Payroll_Data.xlsx
+Query=`2017$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="league" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="team" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="season" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="Player_Name" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`" type="V_WString" />
+            <Field name="Position" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="Age" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`" type="Double" />
+            <Field name="Annual_Salary_GBP" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`" type="Double" />
+            <Field name="Weekly_Salary_GBP" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Payroll_Data.xlsx|||`2017$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="18" y="282" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Performance_Data.xlsx|||`2017$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Quiz_Performance_Data.xlsx
+Query=`2017$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Player" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Performance_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="Club" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Performance_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="Season" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Performance_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="Goals" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Performance_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="Assists" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Performance_Data.xlsx|||`2017$`" type="V_String" />
+            <Field name="Combined" size="255" source="File: C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Join Tool\Quiz_Performance_Data.xlsx|||`2017$`" type="V_String" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Join.Join">
+        <Position x="174" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration joinByRecordPos="False">
+          <JoinInfo connection="Left">
+            <Field field="Player_Name" />
+          </JoinInfo>
+          <JoinInfo connection="Right">
+            <Field field="Player" />
+          </JoinInfo>
+          <SelectConfiguration>
+            <Configuration outputConnection="Join">
+              <OrderChanged value="False" />
+              <CommaDecimal value="False" />
+              <SelectFields>
+                <SelectField field="Right_Player" selected="False" input="Right_" />
+                <SelectField field="Right_Season" selected="False" rename="Right_Season" input="Right_" />
+                <SelectField field="*Unknown" selected="True" />
+              </SelectFields>
+            </Configuration>
+          </SelectConfiguration>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxJoin" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="306" y="198" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>=</Operator>
+            <Field>Position</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2022-08-28 15:55:00</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>F</Operand>
+              <StartDate>2022-08-28 15:55:00</StartDate>
+              <EndDate>2022-08-28 15:55:00</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Position] = "F"</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="486" y="270" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File MaxRecords="" FileFormat="25">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\Forward Final.xlsx|||Sheet1</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <PreserveFormat>False</PreserveFormat>
+            <SkipFieldNames>False</SkipFieldNames>
+            <OutputOption>Create</OutputOption>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Forward Final.xlsx
+Query=Sheet1</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="486" y="150" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="19" MaxRecords="">C:\Users\AbeDiaz\Desktop\Alteryx Stuff\Udemy course\Zero to Hero\Data Blending\Forward Positions.yxdb</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+            <WriteCompatibleVersion>False</WriteCompatibleVersion>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Forward Positions.yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="3" Connection="Left" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Right" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Join" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="True" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="True" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="True" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Forward WF</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="af86f667-5cbc-471a-9e3f-f77b02768532" />
+      <Telemetry>
+        <PreviousWorkflowId value="f4848239-6f16-4935-80af-092bbd6a9851" />
+        <OriginWorkflowId value="f4848239-6f16-4935-80af-092bbd6a9851" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
