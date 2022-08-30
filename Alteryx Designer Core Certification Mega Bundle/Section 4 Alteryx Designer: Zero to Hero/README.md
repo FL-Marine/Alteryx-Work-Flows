@@ -16,6 +16,9 @@
 ![image](https://user-images.githubusercontent.com/74512335/187094173-7b21e07e-3a00-49d0-a774-88d77c6b8301.png)
 
 # Getting started with Formulas
+- Going through basic examples of the formula tool
+![image](https://user-images.githubusercontent.com/74512335/187442621-e36feba0-8c11-45f9-bbef-69dab5249238.png)
 
+# Creating Conditional Expressions
 
 
