@@ -25,5 +25,7 @@
 # Calculations with formula tools
 ![image](https://user-images.githubusercontent.com/74512335/187452270-589108d1-9c2d-4166-b771-06e76c643345.png)
 
+![image](https://user-images.githubusercontent.com/74512335/187455966-c0e269dc-a3b4-47ec-bf54-acc6ba3bb5a4.png)
+![image](https://user-images.githubusercontent.com/74512335/187456010-1d1f4c83-b5e8-4d0a-a7f6-640b07b0c9f9.png)
 
 
