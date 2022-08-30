@@ -23,6 +23,7 @@
 ![image](https://user-images.githubusercontent.com/74512335/187448119-edc7ba4d-3a12-4635-9328-48bbf4469b8f.png)
 
 # Calculations with formula tools
+![image](https://user-images.githubusercontent.com/74512335/187452270-589108d1-9c2d-4166-b771-06e76c643345.png)
 
 
 
