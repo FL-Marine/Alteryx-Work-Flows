@@ -20,5 +20,7 @@
 ![image](https://user-images.githubusercontent.com/74512335/187442621-e36feba0-8c11-45f9-bbef-69dab5249238.png)
 
 # Creating Conditional Expressions
+![image](https://user-images.githubusercontent.com/74512335/187448119-edc7ba4d-3a12-4635-9328-48bbf4469b8f.png)
+
 
 
