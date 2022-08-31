@@ -29,4 +29,9 @@
 ![image](https://user-images.githubusercontent.com/74512335/187456010-1d1f4c83-b5e8-4d0a-a7f6-640b07b0c9f9.png)
 
 # Calculating Summaries, Percentages & Applying Formulas Across Rows & Columns
-
+- Changed data types from CSV input as all fields from CSV are loaded as string data type
+- Joined two data sets together
+- Grouped by city and created new column total sales
+- Sorted Total Sales in descending order 
+- Sampling only the first 10 rows to show the top 10 cities with most sales
+![image](https://user-images.githubusercontent.com/74512335/187692111-7087da6c-d154-4732-a58c-fa33cbe052a8.png)
