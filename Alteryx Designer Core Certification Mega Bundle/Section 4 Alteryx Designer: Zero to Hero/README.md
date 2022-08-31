@@ -35,3 +35,8 @@
 - Sorted Total Sales in descending order 
 - Sampling only the first 10 rows to show the top 10 cities with most sales
 ![image](https://user-images.githubusercontent.com/74512335/187692111-7087da6c-d154-4732-a58c-fa33cbe052a8.png)
+
+# Other types of data blending
+- Use append tool to join data sets without a primary key
+![image](https://user-images.githubusercontent.com/74512335/187694666-fc218609-4de9-4542-8c0e-6edcb791e09c.png)
+
