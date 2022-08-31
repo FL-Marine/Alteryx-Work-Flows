@@ -43,3 +43,5 @@
 ## Using append tool to make a worflow that shows % of Sales per city.
 ![image](https://user-images.githubusercontent.com/74512335/187696797-03348b5d-4f46-4438-9a60-9b118199ca91.png)
 
+#  Introduction to Multi-Row Calculations
+
