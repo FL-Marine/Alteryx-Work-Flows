@@ -44,4 +44,10 @@
 ![image](https://user-images.githubusercontent.com/74512335/187696797-03348b5d-4f46-4438-9a60-9b118199ca91.png)
 
 #  Introduction to Multi-Row Calculations
+- Multi-row calculation being used to get a ranking of the previous total sales row
+![image](https://user-images.githubusercontent.com/74512335/187700779-554c7f61-373e-4bb8-b6c0-495ff7ebdb58.png)
+
+#  Introduction to Multi-field Calculations
+- Multi-field calculations is being used to add a 5% increase to all players in annual and weekly salary columns
+![image](https://user-images.githubusercontent.com/74512335/187702259-be35ab90-7fcb-48f2-8f72-cb8a93b75843.png)
 
