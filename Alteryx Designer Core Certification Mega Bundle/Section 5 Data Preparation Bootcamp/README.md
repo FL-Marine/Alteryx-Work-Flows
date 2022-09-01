@@ -19,3 +19,5 @@
 # Changing data types
 
 ![image](https://user-images.githubusercontent.com/74512335/187936104-aa9c909b-0c28-4da6-a11c-e0e0b60eb05c.png)
+
+# Renaming fields
