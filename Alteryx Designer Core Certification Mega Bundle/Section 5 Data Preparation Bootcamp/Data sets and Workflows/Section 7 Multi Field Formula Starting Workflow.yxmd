@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="42" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="13" />
+          <Fields>
+            <Field name="January" />
+            <Field name="February" />
+            <Field name="March" />
+            <Field name="April" />
+            <Field name="May" />
+            <Field name="June" />
+            <Field name="July" />
+            <Field name="August " />
+            <Field name="September" />
+            <Field name="October" />
+            <Field name="November" />
+            <Field name="December" />
+            <Field name="Total " />
+          </Fields>
+          <Data>
+            <r>
+              <c>125000</c>
+              <c>122000</c>
+              <c>130000</c>
+              <c>102000</c>
+              <c>98000</c>
+              <c>136000</c>
+              <c>120000</c>
+              <c>94000</c>
+              <c>156000</c>
+              <c>110000</c>
+              <c>116000</c>
+              <c>118000</c>
+              <c>1427000</c>
+            </r>
+            <r>
+              <c>75000</c>
+              <c>62000</c>
+              <c>68000</c>
+              <c>79000</c>
+              <c>85000</c>
+              <c>65000</c>
+              <c>60000</c>
+              <c>89000</c>
+              <c>74000</c>
+              <c>62000</c>
+              <c>61000</c>
+              <c>78000</c>
+              <c>858000</c>
+            </r>
+            <r>
+              <c>110000</c>
+              <c>96500</c>
+              <c>112000</c>
+              <c>102000</c>
+              <c>98000</c>
+              <c>99000</c>
+              <c>101000</c>
+              <c>104000</c>
+              <c>115000</c>
+              <c>113000</c>
+              <c>97000</c>
+              <c>103000</c>
+              <c>1250500</c>
+            </r>
+            <r>
+              <c>90000</c>
+              <c>74000</c>
+              <c>88000</c>
+              <c>84000</c>
+              <c>77000</c>
+              <c>81000</c>
+              <c>87000</c>
+              <c>94000</c>
+              <c>89000</c>
+              <c>84000</c>
+              <c>86000</c>
+              <c>77000</c>
+              <c>1011000</c>
+            </r>
+            <r>
+              <c>220000</c>
+              <c>205000</c>
+              <c>218000</c>
+              <c>216000</c>
+              <c>200000</c>
+              <c>209000</c>
+              <c>204000</c>
+              <c>210000</c>
+              <c>221000</c>
+              <c>199000</c>
+              <c>207000</c>
+              <c>219000</c>
+              <c>2528000</c>
+            </r>
+            <r>
+              <c>185000</c>
+              <c>116000</c>
+              <c>182000</c>
+              <c>174000</c>
+              <c>176000</c>
+              <c>189000</c>
+              <c>170000</c>
+              <c>140000</c>
+              <c>135000</c>
+              <c>138000</c>
+              <c>149000</c>
+              <c>180000</c>
+              <c>1934000</c>
+            </r>
+            <r>
+              <c>110000</c>
+              <c>97000</c>
+              <c>112000</c>
+              <c>116000</c>
+              <c>98000</c>
+              <c>95000</c>
+              <c>94000</c>
+              <c>114000</c>
+              <c>112000</c>
+              <c>110000</c>
+              <c>102000</c>
+              <c>104000</c>
+              <c>1264000</c>
+            </r>
+            <r>
+              <c>95000</c>
+              <c>83000</c>
+              <c>94000</c>
+              <c>98000</c>
+              <c>100000</c>
+              <c>83000</c>
+              <c>84000</c>
+              <c>86000</c>
+              <c>94000</c>
+              <c>98000</c>
+              <c>81000</c>
+              <c>87000</c>
+              <c>1083000</c>
+            </r>
+            <r>
+              <c>150000</c>
+              <c>122000</c>
+              <c>148000</c>
+              <c>143000</c>
+              <c>141000</c>
+              <c>152000</c>
+              <c>138000</c>
+              <c>149000</c>
+              <c>142500</c>
+              <c>146000</c>
+              <c>139000</c>
+              <c>151000</c>
+              <c>1721500</c>
+            </r>
+            <r>
+              <c>135000</c>
+              <c>100000</c>
+              <c>125000</c>
+              <c>128000</c>
+              <c>135000</c>
+              <c>126000</c>
+              <c>118000</c>
+              <c>119000</c>
+              <c>106000</c>
+              <c>117000</c>
+              <c>134000</c>
+              <c>128000</c>
+              <c>1471000</c>
+            </r>
+            <r>
+              <c>125000</c>
+              <c>102000</c>
+              <c>132000</c>
+              <c>124000</c>
+              <c>120000</c>
+              <c>112000</c>
+              <c>116000</c>
+              <c>106000</c>
+              <c>118000</c>
+              <c>122000</c>
+              <c>124000</c>
+              <c>103000</c>
+              <c>1404000</c>
+            </r>
+            <r>
+              <c>115000</c>
+              <c>98000</c>
+              <c>100000</c>
+              <c>103000</c>
+              <c>112000</c>
+              <c>114000</c>
+              <c>118000</c>
+              <c>119000</c>
+              <c>102000</c>
+              <c>98000</c>
+              <c>120000</c>
+              <c>115000</c>
+              <c>1314000</c>
+            </r>
+            <r>
+              <c>100000</c>
+              <c>92000</c>
+              <c>103000</c>
+              <c>97000</c>
+              <c>113000</c>
+              <c>115000</c>
+              <c>104000</c>
+              <c>101000</c>
+              <c>99000</c>
+              <c>98000</c>
+              <c>102000</c>
+              <c>112000</c>
+              <c>1236000</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Section 7 Multi Field Formula Starting Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="2c19ebb6-afa2-4a3e-8d10-e07ae12210a4" />
+      <Telemetry>
+        <PreviousWorkflowId value="3be3d95a-0d33-41a6-b6c7-37dd62506ae6" />
+        <OriginWorkflowId value="2c19ebb6-afa2-4a3e-8d10-e07ae12210a4" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

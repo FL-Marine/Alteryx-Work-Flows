@@ -1,0 +1,943 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.2">
+  <Nodes>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="96" />
+          <Fields>
+            <Field name="RecordID" />
+            <Field name="FirstName" />
+            <Field name="LastName" />
+            <Field name="City" />
+            <Field name="State" />
+            <Field name="ZIP" />
+            <Field name="CustomerSegment" />
+          </Fields>
+          <Data>
+            <r>
+              <c>1</c>
+              <c>ALBERTA</c>
+              <c>GRAVES</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80003</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>2</c>
+              <c>ALEXANDRA</c>
+              <c>MURCRAY</c>
+              <c>LITTLETON</c>
+              <c>CO</c>
+              <c>80123</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>3</c>
+              <c>AMY</c>
+              <c>HALTER</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80234</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>4</c>
+              <c>AMY</c>
+              <c>LOCKEMER</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80013</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>5</c>
+              <c>ANDREA</c>
+              <c>BRUN</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80214</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>6</c>
+              <c>ANN</c>
+              <c>BALLIETT</c>
+              <c>WHEAT RIDGE</c>
+              <c>CO</c>
+              <c>80033</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>7</c>
+              <c>ANNA</c>
+              <c>SHEAHAN</c>
+              <c>PARKER</c>
+              <c>CO</c>
+              <c>80134</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>8</c>
+              <c>BELINDA</c>
+              <c>DEHERRERA</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>9</c>
+              <c>BONNIE</c>
+              <c>GILL</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80224</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>10</c>
+              <c>CASSANDRA</c>
+              <c>PATTON</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80226</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>11</c>
+              <c>CHRISTINE</c>
+              <c>TRIANTOS</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80018</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>12</c>
+              <c>CONSTANTI</c>
+              <c>VLASSIS</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80013</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>13</c>
+              <c>CYNTHIA</c>
+              <c>WYAT</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>14</c>
+              <c>DANELL</c>
+              <c>VALDEZ</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80219</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>15</c>
+              <c>DARCY</c>
+              <c>SOUZA</c>
+              <c>ENGLEWOOD</c>
+              <c>CO</c>
+              <c>80112</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>16</c>
+              <c>DAWN</c>
+              <c>CROSSWHITE</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80211</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>17</c>
+              <c>DAYNA</c>
+              <c>BUSTILLOS</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80226</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>18</c>
+              <c>DEANNE</c>
+              <c>BADER</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80231</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>19</c>
+              <c>DENISE</c>
+              <c>PENTICO</c>
+              <c>Aurora</c>
+              <c>CO</c>
+              <c>80014</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>20</c>
+              <c>DENISE</c>
+              <c>PENTICO</c>
+              <c>Aurora</c>
+              <c>CO</c>
+              <c>80014</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>21</c>
+              <c>DIANNE</c>
+              <c>VANGILDER</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80015</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>22</c>
+              <c>DIANNE</c>
+              <c>VANGILDER</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80015</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>23</c>
+              <c>DOREEN</c>
+              <c>HANSEN</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80227</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>24</c>
+              <c>DOROTHY</c>
+              <c>COLE</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>25</c>
+              <c>ELLEN</c>
+              <c>BRILLIANT</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80220</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>26</c>
+              <c>ERIN</c>
+              <c>FUGLEBERG</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80010</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>27</c>
+              <c>ERNA</c>
+              <c>ARUSTAMYAN</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80247</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>28</c>
+              <c>ESTELLA</c>
+              <c>BICKFORD</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>29</c>
+              <c>ESTELLA</c>
+              <c>BICKFORD</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>30</c>
+              <c>HEATHER</c>
+              <c>CONWAY</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80214</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>31</c>
+              <c>J</c>
+              <c>LUPERCIO</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80003</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>32</c>
+              <c>J</c>
+              <c>RITZ</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80231</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>33</c>
+              <c>JASMIN</c>
+              <c>SELIMOVIC</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80246</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>34</c>
+              <c>JERALYN</c>
+              <c>BRADDOCK</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80219</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>35</c>
+              <c>JERALYN</c>
+              <c>BRADDOCK</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80219</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>36</c>
+              <c>JESSICA</c>
+              <c>RINEHART</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80212</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>37</c>
+              <c>JOAN</c>
+              <c>LADD</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80209</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>38</c>
+              <c>JOAN</c>
+              <c>SHAFER</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80247</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>39</c>
+              <c>JUDITH</c>
+              <c>SEDBROOK</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80219</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>40</c>
+              <c>JUDY</c>
+              <c>LAMB</c>
+              <c>BOULDER</c>
+              <c>CO</c>
+              <c>80303</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>41</c>
+              <c>JULIANA</c>
+              <c>OSBORNE</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80011</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>42</c>
+              <c>JULIE</c>
+              <c>SMITH</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80207</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>43</c>
+              <c>KAREN</c>
+              <c>OSBORNE</c>
+              <c>LITTLETON</c>
+              <c>CO</c>
+              <c>80128</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>44</c>
+              <c>KAREN</c>
+              <c>PERRAULT</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80013</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>45</c>
+              <c>KARISSA</c>
+              <c>NORTE</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80016</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>46</c>
+              <c>KARYN</c>
+              <c>ROGERS</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80015</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>47</c>
+              <c>KATHLEEN</c>
+              <c>PATSEY</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>48</c>
+              <c>KATHRINE</c>
+              <c>WEISSNER</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80219</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>49</c>
+              <c>KATHRYN</c>
+              <c>HALL</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80017</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>50</c>
+              <c>KATIE</c>
+              <c>BILLS</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>51</c>
+              <c>KELI</c>
+              <c>SCOTT</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80214</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>52</c>
+              <c>KIM</c>
+              <c>SMITH</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80013</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>53</c>
+              <c>KIM</c>
+              <c>SMITH</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>54</c>
+              <c>LANH</c>
+              <c>NGUYEN</c>
+              <c>LITTLETON</c>
+              <c>CO</c>
+              <c>80123</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>55</c>
+              <c>LARIE</c>
+              <c>MARRIOTT</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80229</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>56</c>
+              <c>LETRICIA</c>
+              <c>CANDELARIA</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80233</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>57</c>
+              <c>LETRICIA</c>
+              <c>CANDELARIA</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80233</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>58</c>
+              <c>LORENA</c>
+              <c>GEORGE</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80004</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>59</c>
+              <c>LORRALNE</c>
+              <c>WATKINS</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80231</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>60</c>
+              <c>M</c>
+              <c>POMEROY</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80013</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>61</c>
+              <c>MARIA</c>
+              <c>DELGADO</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80219</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>62</c>
+              <c>MARIA</c>
+              <c>GONZALEZ</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80212</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>63</c>
+              <c>MARIA</c>
+              <c>RAMIREZ</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80222</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>64</c>
+              <c>MARY</c>
+              <c>HETHERINGTON</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80212</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>65</c>
+              <c>MARY</c>
+              <c>KINIRY</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80015</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>66</c>
+              <c>MARY</c>
+              <c>LABATE</c>
+              <c>ENGLEWOOD</c>
+              <c>CO</c>
+              <c>80112</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>67</c>
+              <c>MARY</c>
+              <c>WETMORE</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80005</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>68</c>
+              <c>MEGAN</c>
+              <c>MCMILLIN</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80221</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>69</c>
+              <c>MELISSA</c>
+              <c>MADSEN</c>
+              <c>LITTLETON</c>
+              <c>CO</c>
+              <c>80121</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>70</c>
+              <c>MELISSA</c>
+              <c>RUFF</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80210</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>71</c>
+              <c>MICHELE</c>
+              <c>MUNSEY</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80247</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>72</c>
+              <c>MURIEL</c>
+              <c>COULTER</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80014</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>73</c>
+              <c>NANCY</c>
+              <c>CLARK</c>
+              <c>PARKER</c>
+              <c>CO</c>
+              <c>80134</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>74</c>
+              <c>NELE</c>
+              <c>MENDIOLA</c>
+              <c>Arvada</c>
+              <c>CO</c>
+              <c>80005</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>75</c>
+              <c>NEYRA</c>
+              <c>LOZANO</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80214</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>76</c>
+              <c>NICOLE</c>
+              <c>SMITH</c>
+              <c>LITTLETON</c>
+              <c>CO</c>
+              <c>80127</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>77</c>
+              <c>NORMA</c>
+              <c>GOODELL</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80012</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>78</c>
+              <c>OLGA</c>
+              <c>ESCALANTE</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80219</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>79</c>
+              <c>P</c>
+              <c>PATTON</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80218</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>80</c>
+              <c>PAMELA</c>
+              <c>WRIGHT</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80206</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>81</c>
+              <c>PATRICIA</c>
+              <c>CROCOMBE</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80232</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>82</c>
+              <c>PEGGY</c>
+              <c>LOCKE</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80219</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>83</c>
+              <c>RANDI</c>
+              <c>HOWE</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80228</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>84</c>
+              <c>RAUNCE</c>
+              <c>SCOTT</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80011</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>85</c>
+              <c>ROBERTA</c>
+              <c>LOHR</c>
+              <c>LITTLETON</c>
+              <c>CO</c>
+              <c>80123</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>86</c>
+              <c>ROSEMARY</c>
+              <c>BREINER</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80220</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>87</c>
+              <c>SARITA</c>
+              <c>BAKER</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80015</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>88</c>
+              <c>SHAVELL</c>
+              <c>BROWN</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80013</c>
+              <c>Small Business</c>
+            </r>
+            <r>
+              <c>89</c>
+              <c>SHEILA</c>
+              <c>WHITE</c>
+              <c>WESTMINSTER</c>
+              <c>CO</c>
+              <c>80031</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>90</c>
+              <c>SHIRLEY</c>
+              <c>KRYWONIS</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80220</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>91</c>
+              <c>SIRENE</c>
+              <c>MARQUISS</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80012</c>
+              <c>Home Office</c>
+            </r>
+            <r>
+              <c>92</c>
+              <c>STACEY</c>
+              <c>BLICKER</c>
+              <c>BROOMFIELD</c>
+              <c>CO</c>
+              <c>80020</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>93</c>
+              <c>TRISHA</c>
+              <c>BONTZ</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80226</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>94</c>
+              <c>VICTORIA</c>
+              <c>MILLETTE</c>
+              <c>ARVADA</c>
+              <c>CO</c>
+              <c>80005</c>
+              <c>Corporate</c>
+            </r>
+            <r>
+              <c>95</c>
+              <c>VIONE</c>
+              <c>JOHANSON</c>
+              <c>DENVER</c>
+              <c>CO</c>
+              <c>80233</c>
+              <c>Consumer</c>
+            </r>
+            <r>
+              <c>96</c>
+              <c>ZAREFA</c>
+              <c>HAMMAD</c>
+              <c>AURORA</c>
+              <c>CO</c>
+              <c>80011</c>
+              <c>Home Office</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Customers</AnnotationText>
+          <DefaultAnnotationText>Customers</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Section 3 De-Duplicate Data Starting Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="32830d9b-7f9a-4bbc-aa92-275c8105079a" />
+      <Telemetry>
+        <PreviousWorkflowId value="1b3d0449-4d85-4ee4-a11a-e68b20b5f648" />
+        <OriginWorkflowId value="32830d9b-7f9a-4bbc-aa92-275c8105079a" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

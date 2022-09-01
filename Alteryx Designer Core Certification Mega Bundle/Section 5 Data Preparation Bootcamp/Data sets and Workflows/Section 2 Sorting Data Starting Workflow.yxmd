@@ -1,0 +1,3898 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="42" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="173" />
+          <Fields>
+            <Field name="URL" />
+            <Field name="Name/Alias" />
+            <Field name="Appearances" />
+            <Field name="Current?" />
+            <Field name="Gender" />
+            <Field name="Full/Reserve Avengers Intro" />
+            <Field name="Year" />
+            <Field name="Years since joining" />
+            <Field name="Honorary" />
+            <Field name="Death1" />
+            <Field name="Return1" />
+            <Field name="Death2" />
+            <Field name="Return2" />
+            <Field name="Death3" />
+            <Field name="Return3" />
+            <Field name="Death4" />
+            <Field name="Return4" />
+            <Field name="Death5" />
+            <Field name="Return5" />
+            <Field name="Notes" />
+          </Fields>
+          <Data>
+            <r>
+              <c>http://marvel.wikia.com/Henry_Pym_(Earth-616)</c>
+              <c>Henry Jonathan "Hank" Pym</c>
+              <c>1269</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Merged with Ultron in Rage of Ultron Vol. 1. A funeral was held. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Janet_van_Dyne_(Earth-616)</c>
+              <c>Janet van Dyne</c>
+              <c>1165</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies in Secret Invasion V1:I8. Actually was sent tto Microverse later recovered</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Anthony_Stark_(Earth-616)</c>
+              <c>Anthony Edward "Tony" Stark</c>
+              <c>3068</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Death: "Later while under the influence of Immortus Stark committed a number of horrible acts and was killed.'  This set up young Tony. Franklin Richards later brought him back</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Robert_Bruce_Banner_(Earth-616)</c>
+              <c>Robert Bruce Banner</c>
+              <c>2089</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies in Ghosts of the Future arc. However "he had actually used a hidden Pantheon base to survive"</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Thor_Odinson_(Earth-616)</c>
+              <c>Thor Odinson</c>
+              <c>2402</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies in Fear Itself brought back because that's kind of the whole point. Second death in Time Runs Out has not yet returned</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Richard_Jones_(Earth-616)</c>
+              <c>Richard Milhouse Jones</c>
+              <c>612</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Steven_Rogers_(Earth-616)</c>
+              <c>Steven Rogers</c>
+              <c>3458</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Mar-64</c>
+              <c>1964</c>
+              <c>51</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Dies at the end of Civil War. Later comes back. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Clint_Barton_(Earth-616)</c>
+              <c>Clinton Francis Barton</c>
+              <c>1456</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>May-65</c>
+              <c>1965</c>
+              <c>50</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Dies in exploding Kree ship in Averngers Vol. 1  Issue 502. Brought back by Scarlet Witch. Dies again in House of M Vol 1 Issue 7. Is later brought back. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Pietro_Maximoff_(Earth-616)</c>
+              <c>Pietro Maximoff</c>
+              <c>769</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>May-65</c>
+              <c>1965</c>
+              <c>50</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies in House of M Vol 1 Issue 7. Later comes back</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Wanda_Maximoff_(Earth-616)</c>
+              <c>Wanda Maximoff</c>
+              <c>1214</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>May-65</c>
+              <c>1965</c>
+              <c>50</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies in Uncanny_Avengers_Vol_1_14. Later comes back</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Jacques_Duquesne_(Earth-616)</c>
+              <c>Jacques Duquesne</c>
+              <c>115</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Sep-65</c>
+              <c>1965</c>
+              <c>50</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies in Avengers_Vol_1_130. Brought back by the Chaos King</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Hercules_(Earth-616)</c>
+              <c>Heracles</c>
+              <c>741</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Oct-67</c>
+              <c>1967</c>
+              <c>48</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/T%27Challa_(Earth-616)</c>
+              <c>T'Challa</c>
+              <c>780</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-68</c>
+              <c>1968</c>
+              <c>47</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Vision_(Earth-616)</c>
+              <c>Victor Shade (alias)</c>
+              <c>1036</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Nov-68</c>
+              <c>1968</c>
+              <c>47</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Dies in Avengers_Vol_1_500. Is eventually rebuilt. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Dane_Whitman</c>
+              <c>Dane Whitman</c>
+              <c>482</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Dec-69</c>
+              <c>1969</c>
+              <c>46</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Natalia_Romanova_(Earth-616)#</c>
+              <c>Natalia Alianovna Romanova</c>
+              <c>1112</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>May-73</c>
+              <c>1973</c>
+              <c>42</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Killed by The Hand. Later revived with The Stone of the Chaste. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Mantis_(Earth-616)#</c>
+              <c>Brandt</c>
+              <c>160</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Aug-73</c>
+              <c>1973</c>
+              <c>42</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies in Silver_Surfer_Vol_3_3. Actually "fragments of her essence were spread out all across the universe"</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Henry_McCoy_(Earth-616)#</c>
+              <c>Henry P. McCoy</c>
+              <c>1886</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Sep-76</c>
+              <c>1976</c>
+              <c>39</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Heather_Douglas_(Earth-616)#</c>
+              <c>Heather Douglas</c>
+              <c>332</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-76</c>
+              <c>1976</c>
+              <c>39</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Dies in Defenders_Vol_1_152. Later 'Obtained a new body.' Dies in Annihilation:_Conquest_Vol_1_3. Comes back as "As before" also was once named Madame MacEvil because LOL. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Patricia_Walker_(Earth-616)#</c>
+              <c>Patsy Walker</c>
+              <c>557</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-76</c>
+              <c>1976</c>
+              <c>39</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died during time on Defenders. Eventually ressurected by villian Grim Reaper along with Mockingbird to fight the Avengers. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Matthew_Hawk_(Earth-616)#</c>
+              <c>Matthew Liebowitz (birth name)</c>
+              <c>197</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Aug-75</c>
+              <c>1975</c>
+              <c>40</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died during Return_to_the_Old_West. Resurrected by She Hulk in negotiation with Time Variance Authority. As a time traveller he died in 1938. Did not return</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Robert_Frank_(Earth-616)#</c>
+              <c>Robert L. Frank Sr.</c>
+              <c>106</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jul-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Vision_and_the_Scarlet_Witch_Vol_1_2. Did not return however he was eventually cloned but the clone was killed immediately. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Simon_Williams_(Earth-616)#</c>
+              <c>Simon Williams</c>
+              <c>692</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Mar-79</c>
+              <c>1979</c>
+              <c>36</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Avengers_Vol_1_9. Actually just in a death-like coma. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Yondu_Udonta_(Earth-691)#</c>
+              <c>Yondu Udonta</c>
+              <c>109</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Martinex_T%27Naga_(Earth-691)#</c>
+              <c>Martinex T'Naga</c>
+              <c>100</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Charlie-27_(Earth-691)#</c>
+              <c>Charlie-27</c>
+              <c>132</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Nicholette_Gold_(Earth-691)#</c>
+              <c>Nicholette Gold</c>
+              <c>108</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Stakar_Ogord_(Earth-691)#</c>
+              <c>Stakar</c>
+              <c>100</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Vance_Astro_(Earth-691)#</c>
+              <c>Vance Astrovik</c>
+              <c>156</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Mar-Vell_(Earth-616)#</c>
+              <c>Mar-Vell</c>
+              <c>254</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jul-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>The bad penny of the Marvel universe. First killed in Secret invasion. Revived during the Chaos war. Died again during aformentioned chaos war. Resurrected by the Kree Empire using theæM'Kraan Crystal. Third death during Avengers vs. X-Men. Has not return</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Carol_Danvers_(Earth-616)#</c>
+              <c>Carol Susan Jane Danvers</c>
+              <c>935</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Apr-79</c>
+              <c>1979</c>
+              <c>36</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Samuel_Wilson_(Earth-616)#</c>
+              <c>Samuel Thomas Wilson</c>
+              <c>576</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Jun-79</c>
+              <c>1979</c>
+              <c>36</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Jocasta_(Earth-616)#</c>
+              <c>Jocasta</c>
+              <c>141</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Nov-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>From her article: Death1: "Defeated Ultron and reversed the process leaving Jocasta a mindless husk." Return 1: "Ultron later revived Jocasta with a remote link activating the mental residue the Wasp left behind" Death 2: "Sacrificing herself to try to ki</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Greer_Nelson_(Earth-616)#</c>
+              <c>Greer Grant Nelson</c>
+              <c>355</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Sep-81</c>
+              <c>1981</c>
+              <c>34</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Jennifer_Walters_(Earth-616)#</c>
+              <c>Jennifer Walters</c>
+              <c>933</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Jul-82</c>
+              <c>1982</c>
+              <c>33</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies during Red Hulk Saga. Returns when Lyra infiltrates Intelligenica and finds her in statis</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Monica_Rambeau_(Earth-616)#</c>
+              <c>Monica Rambeau</c>
+              <c>348</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>May-83</c>
+              <c>1983</c>
+              <c>32</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Eros_(Earth-616)#</c>
+              <c>Eros</c>
+              <c>206</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-84</c>
+              <c>1984</c>
+              <c>31</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/James_Rhodes_(Earth-616)#</c>
+              <c>James R. Rhodes</c>
+              <c>533</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Sep-84</c>
+              <c>1984</c>
+              <c>31</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Barbara_Morse_(Earth-616)#</c>
+              <c>Barbara Barton (nee Morse)</c>
+              <c>374</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-84</c>
+              <c>1984</c>
+              <c>31</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Killed by Mephisto. After Secret Invasion it turns out she was actually being impersonated by a Skrull the whole time and was alive and well. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Moira_Brandon_(Earth-616)#</c>
+              <c>Moira Brandon</c>
+              <c>2</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Nov-93</c>
+              <c>1993</c>
+              <c>22</c>
+              <c>Honorary</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in her second appearance earns honorary Avengers status doing so. Stays dead. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Benjamin_Grimm_(Earth-616)#</c>
+              <c>Benjamin Jacob Grimm</c>
+              <c>2305</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jun-86</c>
+              <c>1986</c>
+              <c>29</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Once killed during a battle with Doctor Doom.' Brought back by the FF when they literally went to Heaven to get him. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Bonita_Juarez_(Earth-616)#</c>
+              <c>Bonita Juarez</c>
+              <c>83</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-87</c>
+              <c>1987</c>
+              <c>28</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Marc_Spector_(Earth-616)#</c>
+              <c>Marc Spector</c>
+              <c>402</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jun-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[NA but he he did die and return to get his powers prior to joining the Avengers. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/John_Walker_(Earth-616)#</c>
+              <c>John F. Walker</c>
+              <c>352</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Human_Torch_(Android)_(Earth-616)#</c>
+              <c>Jim Hammond (alias)</c>
+              <c>565</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Nov-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Dies during New Invaders. Was "was revived as a living weapon the Thinker intended to sell." Prior to joining the avengers he had died like 2 times in the 40s. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Miguel_Santos_(Earth-616)#</c>
+              <c>Miguel Santos</c>
+              <c>112</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Apr-91</c>
+              <c>1991</c>
+              <c>24</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA: Has not died since joing the Avengers but prior to joining he fought the West Coast avengers and seemingly died. Later turned up under control of a villain</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Julia_Carpenter_(Earth-616)#</c>
+              <c>Julia Carpenter</c>
+              <c>218</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/2ZP45-9-X-51_(Earth-616)#</c>
+              <c>X-51</c>
+              <c>149</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jun-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in Deathlok Vol 2 #5. JK that was actually just a Life Model Decoy</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Chris_Powell_(Earth-616)#</c>
+              <c>Christopher Powell</c>
+              <c>168</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-93</c>
+              <c>1993</c>
+              <c>22</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Namor_McKenzie_(Earth-616)#</c>
+              <c>Namor McKenzie</c>
+              <c>1561</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Dec-85</c>
+              <c>1985</c>
+              <c>30</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Namor was presumed killed in the battle with Atlantean Barbarians. Had actually survived and turned up in the South Pacific</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Scott_Lang_(Earth-616)#</c>
+              <c>Scott Edward Harris Lang</c>
+              <c>217</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>03-Feb</c>
+              <c>2003</c>
+              <c>12</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Avengers:_Disassembled. Was brought back in the Young Avengers: Children's Crusade arc because time travel but take my word for it it was actually kind of well done. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Anthony_Druid_(Earth-616)#</c>
+              <c>Anthony Ludgate Druid</c>
+              <c>158</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Apr-87</c>
+              <c>1987</c>
+              <c>28</c>
+              <c>Honorary</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Shot with a Breathing gun and corpse dumped in trash. Revived by the Grim Reaper. Helped Avengers defeat the Reaper so his spirit could remain at peace. Later completely revived by the Chaos King.</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Marrina_Smallwood_(Earth-616)#</c>
+              <c>Marrina Smallwood</c>
+              <c>86</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Dec-87</c>
+              <c>1987</c>
+              <c>28</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Killed by Namor with the Ebony Blade. Returned when The Master put her in a statis tube. Death 2 was when Namor mercy killed her. Returned to life a second time by the Chaos King. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Ravonna_Renslayer_(Earth-6311)#</c>
+              <c>Ravonna Lexus Renslayer</c>
+              <c>41</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>May-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Killed in Avengers_Vol_1_24. Revived by the Grandmaster. Died in Avengers:_Forever_Vol_1_3.</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Rita_DeMara_(Earth-616)#</c>
+              <c>Rita DeMara</c>
+              <c>68</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Nov-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Honorary</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Killed by Iron Man when he was controlled by Immortus. Revived during Chaos war. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Dennis_Dunphy_(Earth-616)#</c>
+              <c>Dennis Dunphy</c>
+              <c>70</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jan-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Captain_America_348. Actually "Dunphy miraculously survived the crash and lived with an Inuit tribe." Second death when killed by Sharon Carter.  ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Gilgamesh_(Earth-616)#</c>
+              <c />
+              <c>61</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Killed by Neut who was working for Immortus. Reborn into a new body. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Reed_Richards_(Earth-616)#</c>
+              <c>Reed Richards</c>
+              <c>2125</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Feb-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Susan_Storm_(Earth-616)#</c>
+              <c>Susan Richards (nee Storm)</c>
+              <c>1761</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Wendell_Vaughn_(Earth-616)#</c>
+              <c>Wendell Elvis Vaughn</c>
+              <c>293</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Oct-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Killed by the Cosmic Assassin. Actually turned into a being composed of pure energy. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Ashley_Crawford_(Earth-616)#</c>
+              <c>Ashley Crawford</c>
+              <c>36</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Dinah_Soar_(Earth-616)#</c>
+              <c />
+              <c>22</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in Great_Lakes_Avengers_Vol_1_1. Has not returned</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/DeMarr_Davis_(Earth-616)#</c>
+              <c>DeMarr Davis</c>
+              <c>31</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Sacrificed self so that Mr. Immortal could stop the villain Maelstrom. Returned as the Angel of Death. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Val_Ventura_(Earth-616)#</c>
+              <c>Val Ventura</c>
+              <c>34</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Craig_Hollis_(Earth-616)#</c>
+              <c>Craig Hollis</c>
+              <c>33</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Christ; where to begin. His superpower is that he cannot die when he dies he immediately comes back. The Wikia inventories 24 deaths. These will be excluded from the analysis. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Gene_Lorrene_(Earth-616)#</c>
+              <c>Gene Lorrene</c>
+              <c>4</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>05-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Doreen_Green_(Earth-616)#</c>
+              <c>Dorreen Green</c>
+              <c>47</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>05-May</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Monkey_Joe_(Earth-616)#</c>
+              <c />
+              <c>7</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>05-May</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Killed by Leather Boy</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Doug_Taggert_(Earth-616)#</c>
+              <c>Doug Taggert</c>
+              <c>3</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>05-May</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Accidently killed by Zaran</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Tippy-Toe_(Earth-616)#</c>
+              <c />
+              <c>16</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>05-Jul</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Wade_Wilson_(Earth-616)#</c>
+              <c>Wade Wilson</c>
+              <c>575</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>07-Sep</c>
+              <c>2007</c>
+              <c>8</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died during incursion. It's not ever particulalry clear if he ever joined an Avengers team besides one issue so his inclusion here is specious at best. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Greg_Willis_(Earth-616)#</c>
+              <c>Greg Willis</c>
+              <c>58</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>09-Aug</c>
+              <c>2009</c>
+              <c>6</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died on Battleworld and came back prior to joining avengers</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Sersi_(Earth-616)#</c>
+              <c>Circe</c>
+              <c>237</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Feb-90</c>
+              <c>1990</c>
+              <c>25</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Peter_Parker_(Earth-616)#</c>
+              <c>Peter Benjamin Parker</c>
+              <c>4333</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Apr-90</c>
+              <c>1990</c>
+              <c>25</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Since joining the New Avengers: First death Killed by Morlun. Ressurected in a brand new body. Died in Amazing Spider-Man #700. Eventually mainfested in his body that Octavious stole and then took over again. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Walter_Newell_(Earth-616)#</c>
+              <c>Walter Newell</c>
+              <c>126</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jul-90</c>
+              <c>1990</c>
+              <c>25</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Elvin_Haliday_(Earth-616)#</c>
+              <c>Elvin Haliday</c>
+              <c>158</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Probationary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/William_Baker_(Earth-616)#</c>
+              <c>William Baker</c>
+              <c>355</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Probationary</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in Identity_Disc_Vol_1_1. Later was revealed to be alive and working along with the Vulture.</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Crystalia_Amaquelin_(Earth-616)#</c>
+              <c>Crystal Amaquelin Maximoff</c>
+              <c>517</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jan-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Eric_Masterson_(Earth-616)#</c>
+              <c>Eric Kevin Masterson</c>
+              <c>202</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jan-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Became posessed died to purge self of corruption. Revived as undead Avenger minion of the Grim Reaper. Returned to the spirit world by the Scarlet Witch. Has since stayed dead. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Philip_Javert_(Earth-921)#</c>
+              <c>Phillip Javert</c>
+              <c>31</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Dec-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Melissa_Darrow_(Earth-9201)#</c>
+              <c />
+              <c>28</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jun-93</c>
+              <c>1993</c>
+              <c>22</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Deathcry_(Earth-616)#</c>
+              <c />
+              <c>50</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jul-93</c>
+              <c>1993</c>
+              <c>22</c>
+              <c>Honorary</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[ Reduced her to a pile of bones and organsby Vargas. Brought back by Chaos King. Died second time in Chaos_War:_Dead_Avengers_Vol_1_3]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Anthony_Stark_(Earth-96020)#</c>
+              <c>Anthony Edward Stark</c>
+              <c>27</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-96</c>
+              <c>1996</c>
+              <c>19</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Merged with 616 Tony Stark</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Giuletta_Nefaria_(Masque)_(Earth-616)#</c>
+              <c>"Giulietta Nefaria"</c>
+              <c>18</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Apr-96</c>
+              <c>1996</c>
+              <c>19</c>
+              <c>Honorary</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Whitney killed was a clone possibly this incarnation of Masque'</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Vance_Astrovik_(Earth-616)#</c>
+              <c>Vance Astrovik</c>
+              <c>302</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-98</c>
+              <c>1998</c>
+              <c>17</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Angelica_Jones_(Earth-616)#</c>
+              <c>Angelica Jones</c>
+              <c>330</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>May-98</c>
+              <c>1998</c>
+              <c>17</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Delroy_Garrett_Jr._(Earth-616)#</c>
+              <c>Delroy Garrett Jr.</c>
+              <c>101</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Apr-00</c>
+              <c>2000</c>
+              <c>15</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Maria_de_Guadalupe_Santiago_(Earth-616)#</c>
+              <c>Maria de Guadalupe Santiago</c>
+              <c>43</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jul-00</c>
+              <c>2000</c>
+              <c>15</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Jonathan_Hart_(Earth-616)#</c>
+              <c>Jonathan Hart</c>
+              <c>126</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>01-Aug</c>
+              <c>2001</c>
+              <c>14</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[First died in a zero energy explosion in space. Body was apparently reanimated by Scarlet Witch. Abruptly exploded killing Scott Lang as well. Second return in Marvel_Zombies_Supreme_Vol_1_2. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Kelsey_Leigh_(Earth-616)#</c>
+              <c>Kelsey Leigh Shorr</c>
+              <c>24</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>04-Jun</c>
+              <c>2004</c>
+              <c>11</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Luke_Cage_(Earth-616)#</c>
+              <c>Carl Lucas</c>
+              <c>886</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>05-Mar</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Veranke_(Earth-616)#</c>
+              <c>Veranke</c>
+              <c>159</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>05-Mar</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Killed by Norman Osbourne. Has not returned. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/James_Howlett_(Earth-616)#</c>
+              <c>James "Logan" Howlett</c>
+              <c>3130</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>05-Jun</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in Death_of_Wolverine_Vol_1_4. Has not yet returned</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Robert_Reynolds_(Earth-616)#</c>
+              <c>Robert Reynolds</c>
+              <c>241</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>05-Oct</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died during Seige. Brought back to life by the Apocalypse twins as a horseman of death in Uncanny_Avengers_Vol_1_9.</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Maya_Lopez_(Earth-616)#</c>
+              <c>Maya Lopez</c>
+              <c>67</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>05-Nov</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>First death 'had been murdered in a fight with Elektra.' "Revived by Elektra and the Hand with their dark magic." Died in most recent run of Moon Knight has not yet returned.</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Nathaniel_Richards_(Iron_Lad)_(Earth-6311)#</c>
+              <c>Nathaniel Richards</c>
+              <c>23</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>05-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA is actually Kang but let's just not go there.</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Elijah_Bradley_(Earth-616)#</c>
+              <c>Elijah Bradley</c>
+              <c>103</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>05-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/William_Kaplan_(Earth-616)#</c>
+              <c>William "Billy" Kaplan</c>
+              <c>123</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>05-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Dorrek_VIII_(Earth-616)#</c>
+              <c>Dorrek VIII/Theodore "Teddy" Altman</c>
+              <c>110</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>05-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Cassandra_Lang_(Earth-616)#</c>
+              <c>Cassie Lang</c>
+              <c>160</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>05-Jun</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Dies in Young Avengers: The Childrens Crusade when she is killed by Doom. Eventually reborn years later. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Katherine_Bishop_(Earth-616)#</c>
+              <c>Katherine "Kate" Bishop</c>
+              <c>132</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>05-Jun</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Vision_(Jonas)_(Earth-616)#</c>
+              <c>Alias: Jonas</c>
+              <c>121</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>06-Feb</c>
+              <c>2006</c>
+              <c>9</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Dies in Young Avengers The Children's Crusade</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Thomas_Shepherd_(Earth-616)#</c>
+              <c>Thomas "Tommy" Shepherd</c>
+              <c>59</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>06-Jun</c>
+              <c>2006</c>
+              <c>9</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Daniel_Rand_(Earth-616)#</c>
+              <c>Daniel Thomas Rand K'ai</c>
+              <c>629</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>07-Feb</c>
+              <c>2007</c>
+              <c>8</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Stephen_Strange_(Earth-616)#</c>
+              <c>Doctor Stephen Vincent Strange</c>
+              <c>1324</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>07-Feb</c>
+              <c>2007</c>
+              <c>8</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Ares_(Earth-616)#</c>
+              <c>Ares</c>
+              <c>236</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>07-Mar</c>
+              <c>2007</c>
+              <c>8</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Ripped in half by the Sentry during Seige. Revived during Chaos King. Then killedby Chaos King. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/James_Buchanan_Barnes_(Earth-616)#</c>
+              <c>James Buchanan Barnes</c>
+              <c>663</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>08-Dec</c>
+              <c>2008</c>
+              <c>7</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Jessica_Drew_(Earth-616)#</c>
+              <c>Jessica Miriam Drew</c>
+              <c>525</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>08-Dec</c>
+              <c>2008</c>
+              <c>7</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Jessica_Jones_(Earth-616)#</c>
+              <c>Jessica Jones</c>
+              <c>205</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Amadeus_Cho_(Earth-616)#</c>
+              <c>Amadeus Cho</c>
+              <c>108</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>09-Dec</c>
+              <c>2009</c>
+              <c>6</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Maria_Hill_(Earth-616)#</c>
+              <c>Maria Hill</c>
+              <c>359</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Robert_Baldwin_(Earth-616)#</c>
+              <c>Robbie Baldwin</c>
+              <c>299</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-Jun</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Sharon_Carter_(Earth-616)#</c>
+              <c>Sharon Carter</c>
+              <c>333</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Captain_America_Vol_7_10. It's not clear how she survived but yeah she totally did. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Eric_O%27Grady_(Earth-616)#</c>
+              <c>Eric O'Grady</c>
+              <c>88</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Secret_Avengers_Vol_1_22. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Brunnhilde_(Earth-616)#</c>
+              <c>Brunnhilde</c>
+              <c>369</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA but died/came back during Ragnarok prior to becoming an Avenger</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Richard_Rider_(Earth-616)#</c>
+              <c>Richard Rider</c>
+              <c>380</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in Guardians_of_the_Galaxy_Vol_3_20.</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Brian_Braddock_(Earth-616)#</c>
+              <c>Brian Braddock</c>
+              <c>545</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Dennis_Sykes_(Earth-616)#</c>
+              <c>Dennis Sykes</c>
+              <c>6</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-Sep</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Heroic_Age:_One_Month_to_Live_Vol_1_5 stayed dead. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Noh-Varr_(Earth-616)#</c>
+              <c>Noh-Varr</c>
+              <c>126</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>10-Jun</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Thaddeus_Ross_(Earth-616)#</c>
+              <c>Thaddeus Ross</c>
+              <c>417</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>11-Jun</c>
+              <c>2011</c>
+              <c>4</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Circle of Four arc. Made a deal with Mephisto and came back. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/John_Aman_(Earth-616)#</c>
+              <c>John Aman</c>
+              <c>31</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>10-Dec</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Shang-Chi_(Earth-616)#</c>
+              <c>Shang-Chi</c>
+              <c>310</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>11-Apr</c>
+              <c>2011</c>
+              <c>4</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/James_Santini_(Earth-616)#</c>
+              <c>James Santini</c>
+              <c>40</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Emery_Schaub_(Earth-616)#</c>
+              <c>Emery Schaub</c>
+              <c>26</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Jeanne_Foucault_(Earth-616)#</c>
+              <c>Jeanne Foucault</c>
+              <c>63</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Fiona_(Inhuman)_(Earth-616)#</c>
+              <c>Fiona</c>
+              <c>2</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Jennifer_Takeda_(Earth-616)#</c>
+              <c>Jennifer Takeda</c>
+              <c>73</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Hollow_(Earth-616)#</c>
+              <c>Yvette</c>
+              <c>22</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Julie_Power_(Earth-616)#</c>
+              <c>Julie Power</c>
+              <c>153</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Alani_Ryan_(Earth-616)#</c>
+              <c>Alani Ryan</c>
+              <c>73</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Ken_Mack_(Earth-616)#</c>
+              <c>Ken Mack</c>
+              <c>59</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in Murderworld during Avengers Arena</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Humberto_Lopez_(Earth-616)#</c>
+              <c>Humberto Lopez</c>
+              <c>66</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in Murderworld during Avengers Arena</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Johnathon_Gallo_(Earth-616)#</c>
+              <c>Johnny Gallo</c>
+              <c>43</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Lyra_(Earth-8009)#</c>
+              <c>Lyra</c>
+              <c>55</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Anya_Corazon_(Earth-616)#</c>
+              <c>Anya Corazon</c>
+              <c>108</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Brandon_Sharpe_(Earth-616)#</c>
+              <c>Brandon Sharpe</c>
+              <c>64</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Kevin_Masterson_(Earth-616)#</c>
+              <c>Kevin Masterson</c>
+              <c>62</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Michiko_Musashi_(Earth-616)#</c>
+              <c>Michiko Musashi</c>
+              <c>94</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Takashi_Matsuya_(Earth-616)#</c>
+              <c>Taki Matsuya</c>
+              <c>18</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Daisy_Johnson_(Earth-616)#</c>
+              <c>Daisy Johnson</c>
+              <c>81</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>12-Jan</c>
+              <c>2012</c>
+              <c>3</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Ororo_Munroe_(Earth-616)#</c>
+              <c>Ororo Munroe</c>
+              <c>1598</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>12-Jan</c>
+              <c>2012</c>
+              <c>3</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Matthew_Murdock_(Earth-616)#</c>
+              <c>Matt Murdock</c>
+              <c>1375</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>11-Nov</c>
+              <c>2011</c>
+              <c>4</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Eugene_Thompson_(Earth-616)#</c>
+              <c>Flash Thompson</c>
+              <c>746</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>12-Apr</c>
+              <c>2012</c>
+              <c>3</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Otto_Octavius_(Earth-616)#</c>
+              <c>Otto Octavius</c>
+              <c>561</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>13-Jan</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Superior_Spider-Man_Vol_1_30. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Alexander_Summers_(Earth-616)#</c>
+              <c>Alex Summers</c>
+              <c>592</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>12-Dec</c>
+              <c>2012</c>
+              <c>3</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Samuel_Guthrie_(Earth-616)#</c>
+              <c>Samuel Guthrie</c>
+              <c>679</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Roberto_da_Costa_(Earth-616)#</c>
+              <c>Roberto da Costa</c>
+              <c>491</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Eden_Fesi_(Earth-616)#</c>
+              <c>Eden Fesi</c>
+              <c>65</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Captain_Universe_(Earth-616)#</c>
+              <c />
+              <c>55</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Isabel_Kane_(Earth-616)#</c>
+              <c>Izzy Kane</c>
+              <c>44</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Marcus_Milton_(Earth-13034)#</c>
+              <c>Marcus Milton</c>
+              <c>65</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in New_Avengers_Vol_3_32. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Rogue_(Anna_Marie)_(Earth-616)#</c>
+              <c>Anna Marie</c>
+              <c>877</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Apr</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Shiro_Yoshida_(Earth-616)#</c>
+              <c>Shiro Yoshida</c>
+              <c>176</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-May</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in Uncanny_Avengers_Vol_1_22. Returned when 'he was able to use his power to transform his body into a state of pure energy '</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Ex_Nihilo_(Earth-616)#</c>
+              <c />
+              <c>24</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Oct</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in New_Avengers_Vol_3_32</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Abyss_(Ex_Nihilo%27s)_(Earth-616)#</c>
+              <c />
+              <c>25</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Oct</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in New_Avengers_Vol_3_32</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Nightmask_(Earth-616)#</c>
+              <c>Adam</c>
+              <c>35</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Oct</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in New_Avengers_Vol_3_32</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Kevin_Connor_(Earth-616)#</c>
+              <c>Kevin Kale Connor</c>
+              <c>44</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Oct</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>Died in New_Avengers_Vol_3_32</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Sam_Alexander_(Earth-616)#</c>
+              <c>Sam Alexander</c>
+              <c>78</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>15-Feb</c>
+              <c>2015</c>
+              <c>0</c>
+              <c>Honorary</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/America_Chavez_(Earth-616)#</c>
+              <c>America Chavez</c>
+              <c>22</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Jul</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Loki_Laufeyson_(Ikol)_(Earth-616)#</c>
+              <c>Loki Laufeyson</c>
+              <c>77</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>13-Jul</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/David_Alleyne_(Earth-616)#</c>
+              <c>David Alleyne</c>
+              <c>115</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Sep</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Nicholas_Fury,_Jr._(Earth-616)#</c>
+              <c>Nicholas Fury, Jr., Marcus Johnson</c>
+              <c>77</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Apr</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Phillip_Coulson_(Earth-616)#</c>
+              <c>Phillip Coulson</c>
+              <c>69</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Apr</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Tony_Masters_(Earth-616)#</c>
+              <c>Tony Masters</c>
+              <c>173</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>13-May</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Victor_Mancha_(Earth-616)#</c>
+              <c>Victor Mancha</c>
+              <c>75</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Sep</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>YES</c>
+              <c>YES</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c><![CDATA[Died in Avengers_A.I._Vol_1_4. Returned in Avengers_A.I._Vol_1_9. ]]></c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Monica_Chang_(Earth-616)#</c>
+              <c>Monica Chang</c>
+              <c>12</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Sep</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Doombot_(Avenger)_(Earth-616)#</c>
+              <c />
+              <c>14</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Sep</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Alexis_(Earth-616)#</c>
+              <c>Alexis</c>
+              <c>13</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Nov</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Eric_Brooks_(Earth-616)#</c>
+              <c>Eric Brooks</c>
+              <c>198</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Nov</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Adam_Brashear_(Earth-616)#</c>
+              <c>Adam Brashear</c>
+              <c>29</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>14-Jan</c>
+              <c>2014</c>
+              <c>1</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Victor_Alvarez_(Earth-616)#</c>
+              <c>Victor Alvarez</c>
+              <c>45</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>14-Jan</c>
+              <c>2014</c>
+              <c>1</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Ava_Ayala_(Earth-616)#</c>
+              <c>Ava Ayala</c>
+              <c>49</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>14-Jan</c>
+              <c>2014</c>
+              <c>1</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+            <r>
+              <c>http://marvel.wikia.com/Kaluu_(Earth-616)#</c>
+              <c>Kaluu</c>
+              <c>35</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>15-Jan</c>
+              <c>2015</c>
+              <c>0</c>
+              <c>Full</c>
+              <c>NO</c>
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c />
+              <c>NA</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Avengers</AnnotationText>
+          <DefaultAnnotationText>Avengers</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Section 2 Sorting Data Starting Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="f0e0c45b-235d-44e3-891d-bb86e89672c1" />
+      <Telemetry>
+        <PreviousWorkflowId value="b50b8b80-7883-4a3b-8da8-87edc36c92bf" />
+        <OriginWorkflowId value="f0e0c45b-235d-44e3-891d-bb86e89672c1" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

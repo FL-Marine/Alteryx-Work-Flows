@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.2">
+  <Nodes>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="10" />
+          <Fields>
+            <Field name="First Name" />
+            <Field name="Last Name" />
+            <Field name="Full Name" />
+            <Field name="Gender" />
+            <Field name="Age" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Homer</c>
+              <c>Simpson</c>
+              <c>Homer Simpson</c>
+              <c>M</c>
+              <c>39</c>
+            </r>
+            <r>
+              <c>Marge</c>
+              <c>Simpson</c>
+              <c>Marge Simpson</c>
+              <c>F</c>
+              <c>36</c>
+            </r>
+            <r>
+              <c>Bart</c>
+              <c>Simpson</c>
+              <c>bart simpson</c>
+              <c>M</c>
+              <c>10</c>
+            </r>
+            <r>
+              <c>Lisa</c>
+              <c>Simpson</c>
+              <c>Lisa Simpson</c>
+              <c>F</c>
+              <c>8</c>
+            </r>
+            <r>
+              <c>Moe</c>
+              <c>Szyslak</c>
+              <c>Moe Szyslak</c>
+              <c>M</c>
+              <c>54</c>
+            </r>
+            <r>
+              <c>Seymour</c>
+              <c>Skinner</c>
+              <c>Seymour Skinner</c>
+              <c>M</c>
+              <c>46</c>
+            </r>
+            <r>
+              <c>Ned</c>
+              <c>Flanders</c>
+              <c>ned flanders</c>
+              <c>M</c>
+              <c />
+            </r>
+            <r>
+              <c>Grandpa</c>
+              <c />
+              <c>Grandpa Simpson</c>
+              <c>M</c>
+              <c>83</c>
+            </r>
+            <r>
+              <c>Chief</c>
+              <c>Wiggum</c>
+              <c>Chief Wiggum</c>
+              <c>M</c>
+              <c>43</c>
+            </r>
+            <r>
+              <c>Milhouse</c>
+              <c>Van Houten</c>
+              <c>Milhouse Van Houten</c>
+              <c>M</c>
+              <c>10</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Section 6 Data Cleanse Starting Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="65657f1f-ad09-4f87-a77e-de6cf9b0218f" />
+      <Telemetry>
+        <PreviousWorkflowId value="2db6f437-404b-41f6-861b-d705b558f440" />
+        <OriginWorkflowId value="65657f1f-ad09-4f87-a77e-de6cf9b0218f" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

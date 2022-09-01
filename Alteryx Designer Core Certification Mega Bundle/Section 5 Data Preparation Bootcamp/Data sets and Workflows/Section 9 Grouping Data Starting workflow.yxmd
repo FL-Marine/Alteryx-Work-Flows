@@ -1,0 +1,1809 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="66" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="173" />
+          <Fields>
+            <Field name="Name/Alias" />
+            <Field name="Appearances" />
+            <Field name="Current" />
+            <Field name="Gender" />
+            <Field name="Full/Reserve Avengers Intro" />
+            <Field name="Year" />
+            <Field name="Years since joining" />
+            <Field name="Honorary" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Henry Jonathan "Hank" Pym</c>
+              <c>1269</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Janet van Dyne</c>
+              <c>1165</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Anthony Edward "Tony" Stark</c>
+              <c>3068</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Robert Bruce Banner</c>
+              <c>2089</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Thor Odinson</c>
+              <c>2402</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Richard Milhouse Jones</c>
+              <c>612</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Sep-63</c>
+              <c>1963</c>
+              <c>52</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Steven Rogers</c>
+              <c>3458</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Mar-64</c>
+              <c>1964</c>
+              <c>51</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Clinton Francis Barton</c>
+              <c>1456</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>May-65</c>
+              <c>1965</c>
+              <c>50</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Pietro Maximoff</c>
+              <c>769</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>May-65</c>
+              <c>1965</c>
+              <c>50</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Wanda Maximoff</c>
+              <c>1214</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>May-65</c>
+              <c>1965</c>
+              <c>50</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Jacques Duquesne</c>
+              <c>115</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Sep-65</c>
+              <c>1965</c>
+              <c>50</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Heracles</c>
+              <c>741</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Oct-67</c>
+              <c>1967</c>
+              <c>48</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>T'Challa</c>
+              <c>780</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-68</c>
+              <c>1968</c>
+              <c>47</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Victor Shade (alias)</c>
+              <c>1036</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Nov-68</c>
+              <c>1968</c>
+              <c>47</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Dane Whitman</c>
+              <c>482</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Dec-69</c>
+              <c>1969</c>
+              <c>46</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Natalia Alianovna Romanova</c>
+              <c>1112</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>May-73</c>
+              <c>1973</c>
+              <c>42</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Brandt</c>
+              <c>160</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Aug-73</c>
+              <c>1973</c>
+              <c>42</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Henry P. McCoy</c>
+              <c>1886</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Sep-76</c>
+              <c>1976</c>
+              <c>39</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Heather Douglas</c>
+              <c>332</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-76</c>
+              <c>1976</c>
+              <c>39</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Patsy Walker</c>
+              <c>557</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-76</c>
+              <c>1976</c>
+              <c>39</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Matthew Liebowitz (birth name)</c>
+              <c>197</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Aug-75</c>
+              <c>1975</c>
+              <c>40</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Robert L. Frank Sr.</c>
+              <c>106</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jul-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Simon Williams</c>
+              <c>692</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Mar-79</c>
+              <c>1979</c>
+              <c>36</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Yondu Udonta</c>
+              <c>109</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Martinex T'Naga</c>
+              <c>100</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Charlie-27</c>
+              <c>132</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Nicholette Gold</c>
+              <c>108</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Stakar</c>
+              <c>100</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Vance Astrovik</c>
+              <c>156</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Mar-Vell</c>
+              <c>254</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jul-78</c>
+              <c>1978</c>
+              <c>37</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Carol Susan Jane Danvers</c>
+              <c>935</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Apr-79</c>
+              <c>1979</c>
+              <c>36</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Samuel Thomas Wilson</c>
+              <c>576</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Jun-79</c>
+              <c>1979</c>
+              <c>36</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Jocasta</c>
+              <c>141</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Nov-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Greer Grant Nelson</c>
+              <c>355</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Sep-81</c>
+              <c>1981</c>
+              <c>34</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Jennifer Walters</c>
+              <c>933</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Jul-82</c>
+              <c>1982</c>
+              <c>33</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Monica Rambeau</c>
+              <c>348</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>May-83</c>
+              <c>1983</c>
+              <c>32</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Eros</c>
+              <c>206</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-84</c>
+              <c>1984</c>
+              <c>31</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>James R. Rhodes</c>
+              <c>533</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Sep-84</c>
+              <c>1984</c>
+              <c>31</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Barbara Barton (nee Morse)</c>
+              <c>374</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-84</c>
+              <c>1984</c>
+              <c>31</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Moira Brandon</c>
+              <c>2</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Nov-93</c>
+              <c>1993</c>
+              <c>22</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Benjamin Jacob Grimm</c>
+              <c>2305</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jun-86</c>
+              <c>1986</c>
+              <c>29</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Bonita Juarez</c>
+              <c>83</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-87</c>
+              <c>1987</c>
+              <c>28</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Marc Spector</c>
+              <c>402</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jun-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>John F. Walker</c>
+              <c>352</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Jim Hammond (alias)</c>
+              <c>565</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Nov-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Miguel Santos</c>
+              <c>112</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Apr-91</c>
+              <c>1991</c>
+              <c>24</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Julia Carpenter</c>
+              <c>218</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Sep-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>X-51</c>
+              <c>149</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jun-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Christopher Powell</c>
+              <c>168</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-93</c>
+              <c>1993</c>
+              <c>22</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Namor McKenzie</c>
+              <c>1561</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Dec-85</c>
+              <c>1985</c>
+              <c>30</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Scott Edward Harris Lang</c>
+              <c>217</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>3-Feb</c>
+              <c>2003</c>
+              <c>12</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Anthony Ludgate Druid</c>
+              <c>158</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Apr-87</c>
+              <c>1987</c>
+              <c>28</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Marrina Smallwood</c>
+              <c>86</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Dec-87</c>
+              <c>1987</c>
+              <c>28</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Ravonna Lexus Renslayer</c>
+              <c>41</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>May-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Rita DeMara</c>
+              <c>68</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Nov-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Dennis Dunphy</c>
+              <c>70</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jan-88</c>
+              <c>1988</c>
+              <c>27</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c />
+              <c>61</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Reed Richards</c>
+              <c>2125</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Feb-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Susan Richards (nee Storm)</c>
+              <c>1761</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Wendell Elvis Vaughn</c>
+              <c>293</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Oct-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Ashley Crawford</c>
+              <c>36</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c />
+              <c>22</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>DeMarr Davis</c>
+              <c>31</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Val Ventura</c>
+              <c>34</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Craig Hollis</c>
+              <c>33</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Jul-89</c>
+              <c>1989</c>
+              <c>26</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Gene Lorrene</c>
+              <c>4</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>5-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Dorreen Green</c>
+              <c>47</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>5-May</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c />
+              <c>7</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>5-May</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Doug Taggert</c>
+              <c>3</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>5-May</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c />
+              <c>16</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>5-Jul</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Wade Wilson</c>
+              <c>575</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>7-Sep</c>
+              <c>2007</c>
+              <c>8</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Greg Willis</c>
+              <c>58</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>9-Aug</c>
+              <c>2009</c>
+              <c>6</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Circe</c>
+              <c>237</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Feb-90</c>
+              <c>1990</c>
+              <c>25</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Peter Benjamin Parker</c>
+              <c>4333</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>Apr-90</c>
+              <c>1990</c>
+              <c>25</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Walter Newell</c>
+              <c>126</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jul-90</c>
+              <c>1990</c>
+              <c>25</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Elvin Haliday</c>
+              <c>158</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Probationary</c>
+            </r>
+            <r>
+              <c>William Baker</c>
+              <c>355</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Probationary</c>
+            </r>
+            <r>
+              <c>Crystal Amaquelin Maximoff</c>
+              <c>517</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jan-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Eric Kevin Masterson</c>
+              <c>202</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Jan-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Phillip Javert</c>
+              <c>31</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Dec-92</c>
+              <c>1992</c>
+              <c>23</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c />
+              <c>28</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jun-93</c>
+              <c>1993</c>
+              <c>22</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c />
+              <c>50</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jul-93</c>
+              <c>1993</c>
+              <c>22</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Anthony Edward Stark</c>
+              <c>27</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Feb-96</c>
+              <c>1996</c>
+              <c>19</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>"Giulietta Nefaria"</c>
+              <c>18</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Apr-96</c>
+              <c>1996</c>
+              <c>19</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Vance Astrovik</c>
+              <c>302</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>May-98</c>
+              <c>1998</c>
+              <c>17</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Angelica Jones</c>
+              <c>330</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>May-98</c>
+              <c>1998</c>
+              <c>17</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Delroy Garrett Jr.</c>
+              <c>101</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>Apr-00</c>
+              <c>2000</c>
+              <c>15</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Maria de Guadalupe Santiago</c>
+              <c>43</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>Jul-00</c>
+              <c>2000</c>
+              <c>15</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Jonathan Hart</c>
+              <c>126</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>1-Aug</c>
+              <c>2001</c>
+              <c>14</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Kelsey Leigh Shorr</c>
+              <c>24</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>4-Jun</c>
+              <c>2004</c>
+              <c>11</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Carl Lucas</c>
+              <c>886</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>5-Mar</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Veranke</c>
+              <c>159</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>5-Mar</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>James "Logan" Howlett</c>
+              <c>3130</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>5-Jun</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Robert Reynolds</c>
+              <c>241</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>5-Oct</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Maya Lopez</c>
+              <c>67</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>5-Nov</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Nathaniel Richards</c>
+              <c>23</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>5-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Elijah Bradley</c>
+              <c>103</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>5-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>William "Billy" Kaplan</c>
+              <c>123</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>5-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Dorrek VIII/Theodore "Teddy" Altman</c>
+              <c>110</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>5-Apr</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Cassie Lang</c>
+              <c>160</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>5-Jun</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Katherine "Kate" Bishop</c>
+              <c>132</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>5-Jun</c>
+              <c>2005</c>
+              <c>10</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Alias: Jonas</c>
+              <c>121</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>6-Feb</c>
+              <c>2006</c>
+              <c>9</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Thomas "Tommy" Shepherd</c>
+              <c>59</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>6-Jun</c>
+              <c>2006</c>
+              <c>9</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Daniel Thomas Rand K'ai</c>
+              <c>629</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>7-Feb</c>
+              <c>2007</c>
+              <c>8</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Doctor Stephen Vincent Strange</c>
+              <c>1324</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>7-Feb</c>
+              <c>2007</c>
+              <c>8</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Ares</c>
+              <c>236</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>7-Mar</c>
+              <c>2007</c>
+              <c>8</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>James Buchanan Barnes</c>
+              <c>663</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>8-Dec</c>
+              <c>2008</c>
+              <c>7</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Jessica Miriam Drew</c>
+              <c>525</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>8-Dec</c>
+              <c>2008</c>
+              <c>7</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Jessica Jones</c>
+              <c>205</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Amadeus Cho</c>
+              <c>108</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>9-Dec</c>
+              <c>2009</c>
+              <c>6</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Maria Hill</c>
+              <c>359</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Robbie Baldwin</c>
+              <c>299</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-Jun</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Sharon Carter</c>
+              <c>333</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Eric O'Grady</c>
+              <c>88</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Brunnhilde</c>
+              <c>369</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Richard Rider</c>
+              <c>380</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Brian Braddock</c>
+              <c>545</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-May</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Dennis Sykes</c>
+              <c>6</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-Sep</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Noh-Varr</c>
+              <c>126</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>10-Jun</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Thaddeus Ross</c>
+              <c>417</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>11-Jun</c>
+              <c>2011</c>
+              <c>4</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>John Aman</c>
+              <c>31</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>10-Dec</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Shang-Chi</c>
+              <c>310</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>11-Apr</c>
+              <c>2011</c>
+              <c>4</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>James Santini</c>
+              <c>40</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Emery Schaub</c>
+              <c>26</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Jeanne Foucault</c>
+              <c>63</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Fiona</c>
+              <c>2</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Jennifer Takeda</c>
+              <c>73</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Yvette</c>
+              <c>22</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Julie Power</c>
+              <c>153</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Alani Ryan</c>
+              <c>73</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Ken Mack</c>
+              <c>59</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Humberto Lopez</c>
+              <c>66</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Johnny Gallo</c>
+              <c>43</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Lyra</c>
+              <c>55</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Anya Corazon</c>
+              <c>108</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Brandon Sharpe</c>
+              <c>64</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>10-Aug</c>
+              <c>2010</c>
+              <c>5</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Kevin Masterson</c>
+              <c>62</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Michiko Musashi</c>
+              <c>94</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Taki Matsuya</c>
+              <c>18</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c />
+              <c>1900</c>
+              <c>115</c>
+              <c>Academy</c>
+            </r>
+            <r>
+              <c>Daisy Johnson</c>
+              <c>81</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>12-Jan</c>
+              <c>2012</c>
+              <c>3</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Ororo Munroe</c>
+              <c>1598</c>
+              <c>NO</c>
+              <c>FEMALE</c>
+              <c>12-Jan</c>
+              <c>2012</c>
+              <c>3</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Matt Murdock</c>
+              <c>1375</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>11-Nov</c>
+              <c>2011</c>
+              <c>4</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Flash Thompson</c>
+              <c>746</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>12-Apr</c>
+              <c>2012</c>
+              <c>3</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>Otto Octavius</c>
+              <c>561</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>13-Jan</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Alex Summers</c>
+              <c>592</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>12-Dec</c>
+              <c>2012</c>
+              <c>3</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Samuel Guthrie</c>
+              <c>679</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Roberto da Costa</c>
+              <c>491</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Eden Fesi</c>
+              <c>65</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c />
+              <c>55</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Izzy Kane</c>
+              <c>44</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Marcus Milton</c>
+              <c>65</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Feb</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Anna Marie</c>
+              <c>877</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Apr</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Shiro Yoshida</c>
+              <c>176</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-May</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c />
+              <c>24</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Oct</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c />
+              <c>25</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Oct</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Adam</c>
+              <c>35</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Oct</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Kevin Kale Connor</c>
+              <c>44</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Oct</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Sam Alexander</c>
+              <c>78</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>15-Feb</c>
+              <c>2015</c>
+              <c>0</c>
+              <c>Honorary</c>
+            </r>
+            <r>
+              <c>America Chavez</c>
+              <c>22</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Jul</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Loki Laufeyson</c>
+              <c>77</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>13-Jul</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>David Alleyne</c>
+              <c>115</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Sep</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Nicholas Fury, Jr., Marcus Johnson</c>
+              <c>77</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Apr</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Phillip Coulson</c>
+              <c>69</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Apr</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Tony Masters</c>
+              <c>173</c>
+              <c>NO</c>
+              <c>MALE</c>
+              <c>13-May</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Victor Mancha</c>
+              <c>75</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Sep</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Monica Chang</c>
+              <c>12</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Sep</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c />
+              <c>14</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Sep</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Alexis</c>
+              <c>13</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>13-Nov</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Eric Brooks</c>
+              <c>198</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>13-Nov</c>
+              <c>2013</c>
+              <c>2</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Adam Brashear</c>
+              <c>29</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>14-Jan</c>
+              <c>2014</c>
+              <c>1</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Victor Alvarez</c>
+              <c>45</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>14-Jan</c>
+              <c>2014</c>
+              <c>1</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Ava Ayala</c>
+              <c>49</c>
+              <c>YES</c>
+              <c>FEMALE</c>
+              <c>14-Jan</c>
+              <c>2014</c>
+              <c>1</c>
+              <c>Full</c>
+            </r>
+            <r>
+              <c>Kaluu</c>
+              <c>35</c>
+              <c>YES</c>
+              <c>MALE</c>
+              <c>15-Jan</c>
+              <c>2015</c>
+              <c>0</c>
+              <c>Full</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Section 9 Grouping Data Starting workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="432f419f-0cef-4bae-a6cf-9349036ac47b" />
+      <Telemetry>
+        <PreviousWorkflowId value="7ebb4744-acfd-4faf-bb63-2a51f64092ab" />
+        <OriginWorkflowId value="432f419f-0cef-4bae-a6cf-9349036ac47b" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

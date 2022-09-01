@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2021.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.TextInput.TextInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <NumRows value="28" />
+          <Fields>
+            <Field name="First Name" />
+            <Field name="Last Name" />
+            <Field name="Full Name" />
+            <Field name="Gender" />
+          </Fields>
+          <Data>
+            <r>
+              <c>Homer</c>
+              <c>Simpson</c>
+              <c>Homer Simpson</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Marge</c>
+              <c>Simpson</c>
+              <c>Marge Simpson</c>
+              <c>F</c>
+            </r>
+            <r>
+              <c>Bart</c>
+              <c>Simpson</c>
+              <c>Bart Simpson</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Lisa</c>
+              <c>Simpson</c>
+              <c>Lisa Simpson</c>
+              <c>F</c>
+            </r>
+            <r>
+              <c>Moe</c>
+              <c>Szyslak</c>
+              <c>Moe Szyslak</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Seymour</c>
+              <c>Skinner</c>
+              <c>Seymour Skinner</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Ned</c>
+              <c>Flanders</c>
+              <c>Ned Flanders</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Grampa</c>
+              <c>Simpson</c>
+              <c>Grampa Simpson</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Chief</c>
+              <c>Wiggum</c>
+              <c>Chief Wiggum</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Milhouse</c>
+              <c>Van Houten</c>
+              <c>Milhouse Van Houten</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Waylon</c>
+              <c>Smithers</c>
+              <c>Waylon Smithers</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Nelson</c>
+              <c>Muntz</c>
+              <c>Nelson Muntz</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Edna</c>
+              <c>Krabappel-Flanders</c>
+              <c>Edna Krabappel-Flanders</c>
+              <c>F</c>
+            </r>
+            <r>
+              <c>Selma</c>
+              <c>Bouvier</c>
+              <c>Selma Bouvier</c>
+              <c>F</c>
+            </r>
+            <r>
+              <c>Barney</c>
+              <c>Gumble</c>
+              <c>Barney Gumble</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Patty</c>
+              <c>Bouvier</c>
+              <c>Patty Bouvier</c>
+              <c>F</c>
+            </r>
+            <r>
+              <c>Martin</c>
+              <c>Prince</c>
+              <c>Martin Prince</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Otto</c>
+              <c>Mann</c>
+              <c>Otto Mann</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Todd</c>
+              <c>Flanders</c>
+              <c>Todd Flanders</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Dr. Marvin</c>
+              <c>Monroe</c>
+              <c>Dr Marvin Monroe</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Kent</c>
+              <c>Brockman</c>
+              <c>Kent Brockman</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Apu</c>
+              <c>Nahasapeemapetilon</c>
+              <c>Apu Nahasapeemapetilon</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Lenny</c>
+              <c>Leonard</c>
+              <c>Lenny Leonard</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Carl</c>
+              <c>Carlson</c>
+              <c>Carl Carlson</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Sideshow</c>
+              <c>Bob</c>
+              <c>Sideshow Bob</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Ralph</c>
+              <c>Wiggum</c>
+              <c>Ralph Wiggum</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Jimbo</c>
+              <c>Jones</c>
+              <c>Jimbo Jones</c>
+              <c>M</c>
+            </r>
+            <r>
+              <c>Agnes</c>
+              <c>Skinner</c>
+              <c>Agnes Skinner</c>
+              <c>F</c>
+            </r>
+          </Data>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Characters</AnnotationText>
+          <DefaultAnnotationText>Characters</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxTextInput" />
+    </Node>
+  </Nodes>
+  <Connections />
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Section 4 Record Id Starting Workflow</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="2f35cd8f-7602-43cc-b73a-a252749ac510" />
+      <Telemetry>
+        <PreviousWorkflowId value="e908311f-8c0a-445e-b6d8-ff9005861551" />
+        <OriginWorkflowId value="2f35cd8f-7602-43cc-b73a-a252749ac510" />
+      </Telemetry>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
