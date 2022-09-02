@@ -16,8 +16,8 @@
 
 ![image](https://user-images.githubusercontent.com/74512335/187932781-c7cdf05d-d61b-4535-b70e-6ce07be6725c.png)
 
-# Changing data types
+# Changing data types, renaming, selecting, repositioning fields
 
-![image](https://user-images.githubusercontent.com/74512335/187936104-aa9c909b-0c28-4da6-a11c-e0e0b60eb05c.png)
+![image](https://user-images.githubusercontent.com/74512335/188175430-0f4bb4aa-aab2-4e83-ae97-072734e2306b.png)
 
-# Renaming fields
+# Cleaning Data
