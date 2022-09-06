@@ -21,3 +21,6 @@
 ![image](https://user-images.githubusercontent.com/74512335/188175430-0f4bb4aa-aab2-4e83-ae97-072734e2306b.png)
 
 # Cleaning Data
+![image](https://user-images.githubusercontent.com/74512335/188715828-1b05daa8-5675-4a16-aa9c-6ad6a429230e.png)
+
+# Calculations
