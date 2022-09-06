@@ -24,5 +24,16 @@
 ![image](https://user-images.githubusercontent.com/74512335/188715828-1b05daa8-5675-4a16-aa9c-6ad6a429230e.png)
 
 # Formulas
+![image](https://user-images.githubusercontent.com/74512335/188728185-3a4c665e-bf50-4b16-af52-b73e7e285f13.png)
+
+## Cross-field formulas
+![image](https://user-images.githubusercontent.com/74512335/188728954-19f199fd-4e91-4d49-89e6-c8f563d35f90.png)
+
+## Multi-row formula
+![image](https://user-images.githubusercontent.com/74512335/188729751-90eedd27-9719-425a-be85-27926e14c617.png)
 
 # Sampling
+![image](https://user-images.githubusercontent.com/74512335/188732223-5b401d18-a32b-47a7-89c5-f0e4e3fdf8d5.png)
+
+# Grouping
+![image](https://user-images.githubusercontent.com/74512335/188732773-e4a56ee9-f729-483b-9bff-dc7dcb98da53.png)
