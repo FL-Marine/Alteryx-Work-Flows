@@ -31,5 +31,28 @@
 
 # Joining multiple inputs
 - using join multiple tool
+![image](https://user-images.githubusercontent.com/74512335/188940844-a3e0a236-86e7-45c1-9a37-59138b3e3c54.png)
 
+# Union
+
+## Auto config by name
+- column positions are determined by first tool that is connected to data tool
+![image](https://user-images.githubusercontent.com/74512335/188941951-5f8270a9-7b4b-40f2-95e1-dd0ae205232a.png)
+
+## Auto config by position
+![image](https://user-images.githubusercontent.com/74512335/188942439-8c12c560-b271-474f-8d7b-76e15ba7d14d.png)
+
+## Manually config fields
+![image](https://user-images.githubusercontent.com/74512335/188942802-a81460ad-0e71-4449-b3d3-573f71c3fb8b.png)
+
+# Advanced Joining Techniques
+
+## Make Groups
+![image](https://user-images.githubusercontent.com/74512335/188946379-62b3eeaf-2ad6-4fa5-92be-c7274eb223b0.png)
+
+## Fuzzy Match
+![image](https://user-images.githubusercontent.com/74512335/188948410-bf48d449-873e-4526-951f-e9051fdf00ac.png)
+
+# Blending mastery - working with outer joins
+![image](https://user-images.githubusercontent.com/74512335/188953197-baf928ca-60b4-4e35-a851-ac46e9b3ce2c.png)
 
