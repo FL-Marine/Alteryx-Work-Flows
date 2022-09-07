@@ -54,5 +54,5 @@
 ![image](https://user-images.githubusercontent.com/74512335/188948410-bf48d449-873e-4526-951f-e9051fdf00ac.png)
 
 # Blending mastery - working with outer joins
-![image](https://user-images.githubusercontent.com/74512335/188953197-baf928ca-60b4-4e35-a851-ac46e9b3ce2c.png)
+![image](https://user-images.githubusercontent.com/74512335/188957994-100605dd-e3fe-45de-8576-908cf32d9e70.png)
 
