@@ -10,3 +10,5 @@ Using BJJ data to make workflows in Alteryx to strengthen knowledge with this to
 - Straight ankle finishing mechanics
 - Chaining together sequence of attacks from hip from sweep
 - Understand lockdown better
+# Work Flow
+![altertx ss](https://user-images.githubusercontent.com/74512335/189646815-429d3089-8fd9-4e0b-a087-cf88687308d0.png)
